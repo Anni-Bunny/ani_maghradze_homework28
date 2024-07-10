@@ -1,6 +1,6 @@
 const LastName = () => {
     return (
-        <div>
+        <div className='labelAndInput'>
             <label htmlFor="LastName" className='label'>გვარი</label>
             <input type="text" id='LastName' placeholder='შეიყვანეთ გვარი' className='input'/>
         </div>

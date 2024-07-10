@@ -1,6 +1,6 @@
 const Form = ({children}) => {
     return(
-        <form>
+        <form className='form'>
             {children}
         </form>
     )

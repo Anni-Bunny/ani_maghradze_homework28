@@ -1,6 +1,6 @@
 const Button = () => {
     return (
-        <div>
+        <div className='buttonDiv'>
             <input type="submit" value="გაგზავნა" className='button'/>
         </div>
     )
